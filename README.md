@@ -2,4 +2,4 @@
 
 ![Gianlz's github stats](https://github-readme-stats.vercel.app/api?username=Gianlz)
 
-[![Gianlz GitHub stats](https://github-readme-stats.vercel.app/api?username=Gianlz)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/ellen2121/ellen2121/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
