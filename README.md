@@ -11,10 +11,7 @@
 
 - 🌱 I’m currently learning Python and JAVA    
   
-
--   
   
-
 - ⚡ Fun fact: I started using computer at 3yo.    
   
 
@@ -82,12 +79,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <!--<div align="center"><img src="https://rishavaaand.github.io/static/images/spotify-readme-example.svg" /></div>  -->
 
