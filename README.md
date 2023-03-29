@@ -95,4 +95,4 @@
 <br />
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=carliyps&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=carliyps&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xoahmvigyxsvsgq7kvqez7bkxm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
