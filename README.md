@@ -6,7 +6,7 @@
 ### <div align="center">Hi, my name is Gianluca, I'm 19 years old. I have an IT degree, and I'm studying computer science at IFC - Rio do Sul</div>  
   
 
-- 🔭 I’m currently working on [Computer Vision and AI]    
+- 🔭 I’m currently working on [Computer Vision, Machine Learning and AI]    
   
 
 - 🌱 I’m currently learning Python and JAVA    
