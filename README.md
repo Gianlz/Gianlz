@@ -52,10 +52,15 @@
   </a>  
 </div>
 
-## 📈 Github Stats
+## 📈 Codewars
 
 
-  ![Codewars](https://github.r2v.ch/codewars?user=Gianlz)
+  <div align="center">
+    <div>
+     <img src="https://github.r2v.ch/codewars?user=Gianlz" />
+    </div>
+  </div>
+
 
 
 ## 🎧 Spotify Playing
