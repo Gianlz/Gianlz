@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+##<div align="center">
+##<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+##</div>  
   
 
 ### <div align="center">Hi, my name is Gianluca, I'm 19 years old. I have an IT degree, and I'm studying computer science at IFC - Rio do Sul</div>  
