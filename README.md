@@ -34,7 +34,7 @@
     <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
   </div>
 </div>
-                                      |                                        |
+                                                                             
 
 ## 🤝 Connect with me
 
