@@ -57,7 +57,7 @@
 
   <div align="center">
     <div>
-     <img src="https://github.r2v.ch/codewars?user=Gianlz" />
+     <img src="https://github.r2v.ch/codewars?user=Gianlz&name=true&top_languages=true" />
     </div>
   </div>
 
