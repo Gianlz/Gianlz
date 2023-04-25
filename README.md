@@ -9,12 +9,32 @@
 - ⚡ Fun fact: I started using a computer at 3 years old.
 
 ## 🔧 Skills
-| Frontend                                  | Backend                                 | DevOps                                |
-|-------------------------------------------|-----------------------------------------|--------------------------------------|
-| <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /><br> CSS3   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /><br> PHP | <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /><br> Linux |
-| <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /><br> HTML5 | <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /><br> Python |                                        |
-| <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /><br> JavaScript | <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /><br> Java |                                        |
-| <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /><br> Bootstrap |                                         |                                        |
+<div>
+  <h2>Frontend</h2>
+  <div align="center">
+    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+  </div>
+</div>
+
+<div>
+  <h2>Backend</h2>
+  <div align="center">
+    <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+  </div>
+</div>
+
+<div>
+  <h2>DevOps</h2>
+  <div align="center">
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  </div>
+</div>
+                                      |                                        |
 
 ## 🤝 Connect with me
 
