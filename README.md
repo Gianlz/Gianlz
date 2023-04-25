@@ -55,7 +55,7 @@
 ## 📈 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gianlz&show_icons=true&count_private=true&hide_border=true&theme=slateorange" align="center" />
+  ![Codewars](https://github.r2v.ch/codewars?user=Gianlz)
 </div>
 
 ## 🎧 Spotify Playing
