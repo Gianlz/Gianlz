@@ -54,9 +54,9 @@
 
 ## 📈 Github Stats
 
-<div align="center">
+
   ![Codewars](https://github.r2v.ch/codewars?user=Gianlz)
-</div>
+
 
 ## 🎧 Spotify Playing
 
