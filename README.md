@@ -1,6 +1,4 @@
-<div align="center">
-  <div class="fractal"></div>
-</div>
+
 
 ## 👋 Hi, my name is Gianluca, I'm 19 years old. I have an IT degree, and I'm studying computer science at IFC - Rio do Sul 
 
