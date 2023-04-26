@@ -1,6 +1,6 @@
-<!-- <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="100%" />
-</div> -->
+<div align="center">
+  <div class="fractal"></div>
+</div>
 
 ## 👋 Hi, my name is Gianluca, I'm 19 years old. I have an IT degree, and I'm studying computer science at IFC - Rio do Sul 
 
@@ -36,7 +36,6 @@
     </div>
   </div>
 </div>
-                                                                             
 
 ## 🤝 Connect with me
 
@@ -54,19 +53,14 @@
 
 ## 📈 Codewars
 
-
-  <div align="center">
-    <div>
-     <img src="https://github.r2v.ch/codewars?user=Gianlz&name=true&top_languages=true" />
-    </div>
+<div align="center">
+  <div>
+    <img src="https://github.r2v.ch/codewars?user=Gianlz&name=true&top_languages=true" />
   </div>
-
-
+</div>
 
 ## 🎧 Spotify Playing
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=carliyps&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
-
-<div align="center">
