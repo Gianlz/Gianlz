@@ -1,6 +1,3 @@
-<div align="center">
-  <div class="fractal"></div>
-</div>
 
 ## 👋 Hi, my name is Gianluca, I'm 19 years old. I have an IT degree, and I'm studying computer science at IFC - Rio do Sul 
 
@@ -65,52 +62,4 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=carliyps&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
-<style>
-.fractal {
-  width: 200px;
-  height: 200px;
-  position: relative;
-  margin: 0 auto;
-}
 
-.fractal:before,
-.fractal:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  border: 1px solid #fff;
-}
-
-.fractal:before {
-  animation: rotate1 5s linear infinite;
-}
-
-.fractal:after {
-  animation: rotate2 5s linear infinite;
-}
-
-@keyframes rotate1 {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-@keyframes rotate2 {
-  0% {
-    transform: rotate(180deg);
-  }
-  100% {
-    transform: rotate(540deg);
-  }
-}
-</style>
-<div align="center">
-  <div class="fractal"></div>
-</div>
