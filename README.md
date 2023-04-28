@@ -2,10 +2,10 @@
 <img src="https://user-images.githubusercontent.com/67298422/235135912-6d5a20b9-93e2-478a-a1d7-620f5a2a8dc8.gif" align="center" style="width: 100%" />
 </div>  
 
-👋 Hey there, I'm Gianluca, a 19-year-old with an IT degree and a passion for computer science.
-🔭 My current focus is on Computer Vision, Machine Learning, and AI.
-🌱 I'm always learning and currently expanding my knowledge of Python and Java.
-⚡ Fun fact: I've been using computers since I was 3 years old!
+## 👋 Hey there, I'm Gianluca, a 19-year-old with an IT degree and a passion for computer science.
+- 🔭 My current focus is on Computer Vision, Machine Learning, and AI.
+- 🌱 I'm always learning and currently expanding my knowledge of Python and Java.
+- ⚡ Fun fact: I've been using computers since I was 3 years old!
 
 ## 🔧 Skills
 <div style="display:flex; justify-content:space-between">
