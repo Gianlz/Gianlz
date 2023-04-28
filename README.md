@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://giphy.com/gifs/WszyQt218x7UE0rJvw" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/67298422/235135912-6d5a20b9-93e2-478a-a1d7-620f5a2a8dc8.gif" align="center" style="width: 100%" />
 </div>  
+
 
 
 
