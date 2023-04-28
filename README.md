@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/WszyQt218x7UE0rJvw/giphy.gif" width="480" height="149" frameBorder="0" class="giphy-embed" allowFullScreen autoplay>
+<div style="width:100%;height:0;padding-bottom:31%;position:relative;"><iframe src="https://giphy.com/embed/WszyQt218x7UE0rJvw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen autoplay></iframe></div>
+
 
 
 
