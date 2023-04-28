@@ -1,3 +1,4 @@
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/67298422/235132340-2a6557f9-54c3-4a74-acd6-5c843a7718ae.gif)
 
 ## 👋 Hi, my name is Gianluca, I'm 19 years old. I have an IT degree, and I'm studying computer science at IFC - Rio do Sul 
 
