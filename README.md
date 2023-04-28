@@ -2,80 +2,10 @@
 <img src="https://user-images.githubusercontent.com/67298422/235135912-6d5a20b9-93e2-478a-a1d7-620f5a2a8dc8.gif" align="center" style="width: 100%" />
 </div>  
 
-
-
-
-
-<!-- Add custom styling to the description section -->
-<style>
-/* Add custom styling to the main heading */
-h2 {
-  font-size: 36px;
-  font-weight: bold;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-/* Add custom styling to the subheadings */
-h3 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-/* Add custom styling to the paragraph text */
-p {
-  font-size: 18px;
-  line-height: 1.5;
-  text-align: justify;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-/* Add custom styling to the bullet points */
-li {
-  font-size: 18px;
-  line-height: 1.5;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-/* Add custom styling to the fun fact section */
-.fun-fact {
-  font-size: 18px;
-  line-height: 1.5;
-  font-style: italic;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-/* Add custom styling to the entire description section */
-.description {
-  background-color: #f7f7f7;
-  border: 1px solid #dcdcdc;
-  border-radius: 10px;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-</style>
-
-<!-- Add the GitHub description content -->
-<div class="description">
-  <h2>👋 Hey there, I'm Gianluca!</h2>
-  <p>I'm a 19-year-old with an IT degree and a passion for computer science.</p>
-  
-  <h3>🔭 What I'm working on</h3>
-  <p>My current focus is on Computer Vision, Machine Learning, and AI.</p>
-  
-  <h3>🌱 What I'm learning</h3>
-  <p>I'm always learning and currently expanding my knowledge of Python and Java.</p>
-  
-  <h3>⚡ Fun fact</h3>
-  <p class="fun-fact">I've been using computers since I was 3 years old!</p>
-</div>
-
+👋 Hey there, I'm Gianluca, a 19-year-old with an IT degree and a passion for computer science.
+🔭 My current focus is on Computer Vision, Machine Learning, and AI.
+🌱 I'm always learning and currently expanding my knowledge of Python and Java.
+⚡ Fun fact: I've been using computers since I was 3 years old!
 
 ## 🔧 Skills
 <div style="display:flex; justify-content:space-between">
