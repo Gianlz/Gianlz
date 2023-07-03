@@ -1,4 +1,4 @@
-<img src="https://prnt.sc/tFCyAjFebicK" alt="" />
+<img src="https://prnt.sc/tFCyAjFebicK" alt="CSS3" height="50"/>
 
 
 
