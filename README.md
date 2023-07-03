@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/67298422/235135912-6d5a20b9-93e2-478a-a1d7-620f5a2a8dc8.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/67298422/235135912-6d5a20b9-93e2-478a-a1d7-620f5a2a8dc8.gif](https://github.com/Gianlz/Gianlz/assets/67298422/19ab44d8-4059-46f8-be97-22ce66a19e6d)" align="center" style="width: 100%" />
 </div>  
+
 
 ## 👋 Hey there, I'm Gianluca, a 19-year-old with an IT degree and a passion for computer science.
 - 🔭 My current focus is on Computer Vision, Machine Learning, and AI.
