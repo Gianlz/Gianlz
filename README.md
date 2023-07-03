@@ -1,5 +1,5 @@
 
-![funx-gif](https://github.com/Gianlz/Gianlz/assets/67298422/ca418b2c-29eb-4d1b-ac93-a2222408159b)
+![funx-gif](https://prnt.sc/tFCyAjFebicK)
 
 
 
