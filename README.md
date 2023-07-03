@@ -1,5 +1,5 @@
 
-![funx-gif](https://prnt.sc/tFCyAjFebicK)
+https://prnt.sc/tFCyAjFebicK
 
 
 
