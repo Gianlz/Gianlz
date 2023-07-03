@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/67298422/235135912-6d5a20b9-93e2-478a-a1d7-620f5a2a8dc8.gif](https://github.com/Gianlz/Gianlz/assets/67298422/19ab44d8-4059-46f8-be97-22ce66a19e6d)" align="center" style="width: 100%" />
+![funx-gif](https://github.com/Gianlz/Gianlz/assets/67298422/ca418b2c-29eb-4d1b-ac93-a2222408159b)
+
 </div>  
 
 
