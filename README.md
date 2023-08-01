@@ -1,4 +1,4 @@
-![ezgif com-resize (1) (1)](https://github.com/Gianlz/Gianlz/assets/67298422/ae890093-aa55-4337-800f-d0c69caacf76)
+![247317407-4ff06330-e1a5-4818-8ba4-10825dcb5916](https://github.com/Gianlz/Gianlz/assets/67298422/22c1eaa0-4244-427c-b96f-04b8a1dbd6fc)
 
 
 ## 👋 Hey there, I'm Gianluca, a 19-year-old with an IT degree and a passion for computer science.
