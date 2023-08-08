@@ -1,5 +1,4 @@
-![247317407-4ff06330-e1a5-4818-8ba4-10825dcb5916](https://github.com/Gianlz/Gianlz/assets/67298422/22c1eaa0-4244-427c-b96f-04b8a1dbd6fc)
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Gianluca%20Zugno%20&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## 👋 Hey there, I'm Gianluca, a 19-year-old with an IT degree and a passion for computer science.
 - 🔭 My current focus is on Computer Vision, Machine Learning, and AI.
