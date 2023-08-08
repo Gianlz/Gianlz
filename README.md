@@ -5,19 +5,9 @@
 - 🌱 I'm always learning and currently expanding my knowledge of Python and Java.
 - ⚡ Fun fact: I've been using computers since I was 3 years old!
 
-## “Have no fear of perfection - you'll never reach it.”
+“Have no fear of perfection - you'll never reach it.”
 ― Salvador Dali
-## 🔧 Skills
-<div style="display:flex; justify-content:space-between">
-  <div>
-    <h2>Frontend</h2>
-    <div align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-    </div>
-  </div>
+
 
   <div>
     <h2>Backend</h2>
