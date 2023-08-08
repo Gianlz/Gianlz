@@ -46,14 +46,6 @@
 </div>
 
 
-  <div>
-    <h2>DevOps</h2>
-    <div align="center">
-      <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-    </div>
-  </div>
-</div>
-
 ## 🤝 Connect with me
 
 <div align="center">
