@@ -5,9 +5,15 @@
 - 🌱 I'm always learning and currently expanding my knowledge of Python and Java.
 - ⚡ Fun fact: I've been using computers since I was 3 years old!
 
+<div align="center">
 
 | Have no fear of perfection - you'll never reach it.| Salvador Dali |
 | ---------------------------- | ------------- |
+
+</div>
+
+
+<div align="center">
 
 <table>
   <tr>
@@ -37,7 +43,8 @@
   </tr>
 </table>
 
-  </div>
+</div>
+
 
   <div>
     <h2>DevOps</h2>
