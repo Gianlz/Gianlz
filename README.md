@@ -5,8 +5,13 @@
 - 🌱 I'm always learning and currently expanding my knowledge of Python and Java.
 - ⚡ Fun fact: I've been using computers since I was 3 years old!
 
-“Have no fear of perfection - you'll never reach it.”
-― Salvador Dali
+
+| Have no fear of perfection - you'll never reach it.| Salvador Dali |
+| ---------------------------- | ------------- |
+
+
+
+
 
 
   <div>
