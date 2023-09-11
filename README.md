@@ -47,20 +47,30 @@
 </div>
 
 
-## 🤝 Connect with me
+## Contacts
 
 <div align="center">
-  <a href="https://instagram.com/G1anzzz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/gianlucazugno" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/gianlz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>  
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div class="contact-card">
+      <a href="https://instagram.com/G1anzzz" target="_blank">
+        <img src="custom-instagram-icon.png" alt="Instagram" />
+      </a>
+      <p>Instagram</p>
+    </div>
+    <div class="contact-card">
+      <a href="https://linkedin.com/in/gianlucazugno" target="_blank">
+        <img src="custom-linkedin-icon.png" alt="LinkedIn" />
+      </a>
+      <p>LinkedIn</p>
+    </div>
+    <div class="contact-card">
+      <a href="https://github.com/gianlz" target="_blank">
+        <img src="custom-github-icon.png" alt="GitHub" />
+      </a>
+      <p>GitHub</p>
+    </div>
+  </div>
 </div>
-
 
 
 
