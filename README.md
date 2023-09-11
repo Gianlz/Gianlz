@@ -59,10 +59,6 @@
       <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-bottom: 10px;" />
       <span style="color: #000; font-weight: bold;">LinkedIn</span>
     </a>
-    <a href="https://github.com/gianlz" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-      <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" style="width: 40px; height: 40px; margin-bottom: 10px;" />
-      <span style="color: #000; font-weight: bold;">GitHub</span>
-    </a>
   </div>
 </div>
 
