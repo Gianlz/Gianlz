@@ -50,25 +50,19 @@
 ## Contacts
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div class="contact-card">
-      <a href="https://instagram.com/G1anzzz" target="_blank">
-        <img src="custom-instagram-icon.png" alt="Instagram" />
-      </a>
-      <p>Instagram</p>
-    </div>
-    <div class="contact-card">
-      <a href="https://linkedin.com/in/gianlucazugno" target="_blank">
-        <img src="custom-linkedin-icon.png" alt="LinkedIn" />
-      </a>
-      <p>LinkedIn</p>
-    </div>
-    <div class="contact-card">
-      <a href="https://github.com/gianlz" target="_blank">
-        <img src="custom-github-icon.png" alt="GitHub" />
-      </a>
-      <p>GitHub</p>
-    </div>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+    <a href="https://instagram.com/G1anzzz" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" alt="Instagram" style="width: 40px; height: 40px; margin-bottom: 10px;" />
+      <span style="color: #000; font-weight: bold;">Instagram</span>
+    </a>
+    <a href="https://linkedin.com/in/gianlucazugno" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-bottom: 10px;" />
+      <span style="color: #000; font-weight: bold;">LinkedIn</span>
+    </a>
+    <a href="https://github.com/gianlz" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" style="width: 40px; height: 40px; margin-bottom: 10px;" />
+      <span style="color: #000; font-weight: bold;">GitHub</span>
+    </a>
   </div>
 </div>
 
