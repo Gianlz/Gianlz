@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Gianluca%20Zugno%20&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 ```
-- 👋 Hey there, I'm Gianluca, a 20-year-old with an IT degree and a passion for computer science.
+- 👋 Hey there, I'm Gianluca, a 20-year-old with passion for computer science.
 - 🔭 My current focus is on Computer Vision, Machine Learning, and AI.
 - 🌱 I'm always learning and currently expanding my knowledge of Python and Java.
 - ⚡ Fun fact: I've been using computers since I was 3 years old!
