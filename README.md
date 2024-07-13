@@ -40,7 +40,7 @@
         <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
       </div>
     </td>
-    <a href="https://gianlz.github.io/DEWS/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="WWW" height="50" />
+  
   </tr>
       <tr>
     <th>DevOPS</th>
