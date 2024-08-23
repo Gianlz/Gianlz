@@ -48,7 +48,7 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" alt="Arch" height="50" />
+        <img src="https://avatars.githubusercontent.com/u/4673648?s=280&v=4" alt="Arch" height="50" />
       </div>
     </td>
     <a href="https://gianlz.github.io/DEWS/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="WWW" height="50" />
