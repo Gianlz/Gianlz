@@ -71,7 +71,7 @@ class Developer:
   <a href="https://instagram.com/G1anzzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://gianlz.github.io/DEWS/" target="_blank">
+  <a href="https://gianlz.github.io/Portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
