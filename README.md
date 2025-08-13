@@ -1,10 +1,10 @@
 <div align="center">
-  
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Gianluca%20Zugno&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Gianluca%20Zugno&width=800&height=400)
 
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="24" height="24"/> About Me
 
 ```python
 class Developer:
@@ -30,7 +30,7 @@ class Developer:
 
 </div>
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" height="24"/> Tech Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@ class Developer:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
 
 ### Backend Development
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -58,20 +58,17 @@ class Developer:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
-
-
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="24" height="24"/> GitHub Stats
 
 <div align="center">
-  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlz&layout=compact&theme=radical)
 
 </div>
 
-## 🤝 Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24"/> Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/gianlucazugno" target="_blank">
@@ -88,7 +85,7 @@ class Developer:
 ---
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gianlz&color=blueviolet&style=flat-square)
 
 </div>
