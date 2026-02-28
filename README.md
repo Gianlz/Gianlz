@@ -1,7 +1,5 @@
 <div align="center">
-
-![Banner](https://svg-banners.vercel.app/api?type=typeWriter&text1=Gianluca%20Zugno&width=800&height=400)
-
+  <img src="https://github.com/user-attachments/assets/0ce74e70-0c06-4614-a8f1-ad55d7c8b658" width="100%" alt="banner"/>
 </div>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="24" height="24"/> About Me
@@ -10,7 +8,7 @@
 class Developer:
     def __init__(self):
         self.name = "Gianluca Zugno"
-        self.age = 21
+        self.age = 22
         self.role = "Computer Science Student"
         self.interests = ["Computer Vision", "Machine Learning", "AI"]
         self.languages = ["Python", "Java"]
@@ -62,13 +60,6 @@ class Developer:
 
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="24" height="24"/> GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlz&layout=compact&theme=radical)
-
-</div>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24"/> Connect With Me
 
