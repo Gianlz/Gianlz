@@ -2,33 +2,36 @@
   <img src="https://github.com/user-attachments/assets/0ce74e70-0c06-4614-a8f1-ad55d7c8b658" width="100%" alt="banner"/>
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="24" height="24"/> About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="24" height="24"/> About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Gianluca Zugno"
-        self.age = 22
-        self.role = "Computer Science Student"
-        self.interests = ["Computer Vision", "Machine Learning", "AI"]
-        self.languages = ["Python", "Java"]
-        self.fun_fact = "Been using computers since age 3! 🚀"
+```yaml
+# ─── gianluca.yml ─────────────────────────────────────────────
 
-    def get_current_state(self):
-        return {
-            "learning": "Always expanding knowledge in " + " & ".join(self.languages),
-            "focusing": " & ".join(self.interests),
-            "status": "Open to new opportunities and collaborations"
-        }
+name:       Gianluca Zugno
+age:        22
+location:   Brazil
+role:       Computer Science Student
+
+interests:
+  - Computer Vision
+  - Machine Learning
+  - Artificial Intelligence
+
+languages:  [Python, Java]
+currently:  Building things that see, think & learn
+fun_fact:   "Been using computers since age 3"
+status:     Open to collaborations
+
+# ──────────────────────────────────────────────────────────────
 ```
 
 <div align="center">
 
-> *"Have no fear of perfection - you'll never reach it."* - Salvador Dali
+> *"Have no fear of perfection — you'll never reach it."* — Salvador Dalí
 
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" height="24"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="24" height="24"/> Tech Stack
 
 <div align="center">
 
@@ -77,8 +80,4 @@ class Developer:
 
 ---
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gianlz&color=blueviolet&style=flat-square)
-
-</div>
